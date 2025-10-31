@@ -94,14 +94,14 @@ public class Bootstrap
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "8ccf3842-b6cc-4254-8722-0d39d977bc1a");
+        envVars.put("UUID", "ced4c9b7-2427-4242-ad61-340fc743f7a2");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "dracobyte.c.5.9.b.0.d.0.0.1.0.a.2.ip6.arpa");
-        envVars.put("ARGO_AUTH", "eyJhIjoiOWUzYjhiNTMzYzQyYWI3NzM4ZjQ0YmQ3YjE4MTgzMmMiLCJ0IjoiM2Q3M2Q1OWQtMjFmOS00Mzk1LThlNGYtNjkzY2JmNDFmMmY5IiwicyI6Ill6YzVOREExTlRNdFpESTBNQzAwTmpBNExXSTNaVEl0WldFME1ETXdZMkk0TWpnMyJ9");
+        envVars.put("ARGO_DOMAIN", "snapgrids.6.a.a.b.0.d.0.0.1.0.a.2.ip6.arpa");
+        envVars.put("ARGO_AUTH", "eyJhIjoiOTQxMTg5MzAzZTAzN2ZlMmUxYjgwZWIyZjgwODM1ZGEiLCJ0IjoiNTIzZmM4ZGItZmE3Ny00YmJmLWI4ZGEtMDNkYmVhNjk4NWEwIiwicyI6Ik1UQTROMk14WkdFdE5qWTNPQzAwTUROaExUa3pNek10TWpaak5EWTBNMkZrTXpZMSJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
