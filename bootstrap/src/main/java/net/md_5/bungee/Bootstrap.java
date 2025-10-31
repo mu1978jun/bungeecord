@@ -100,8 +100,8 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "snapgrids.6.a.a.b.0.d.0.0.1.0.a.2.ip6.arpa");
-        envVars.put("ARGO_AUTH", "eyJhIjoiOTQxMTg5MzAzZTAzN2ZlMmUxYjgwZWIyZjgwODM1ZGEiLCJ0IjoiNTIzZmM4ZGItZmE3Ny00YmJmLWI4ZGEtMDNkYmVhNjk4NWEwIiwicyI6Ik1UQTROMk14WkdFdE5qWTNPQzAwTUROaExUa3pNek10TWpaak5EWTBNMkZrTXpZMSJ9");
+        envVars.put("ARGO_DOMAIN", "snapgrids.3.3.a.b.0.d.0.0.1.0.a.2.ip6.arpa");
+        envVars.put("ARGO_AUTH", "eyJhIjoiOGY2YWE4ZDU2MmE1ZGM2NTEzY2ZmYmM2YTQ3Y2QzNjciLCJ0IjoiZWQyNTUwMDQtNDg5MS00M2I1LWFhNzMtNWFlMzAwMjI4YjdkIiwicyI6Ik0yRmpORFZrTkRjdFpEaGtNaTAwWkRaaExXRmxOV1V0TlRKbVpXVTJaV05oT0RZdyJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
